@@ -1,0 +1,29 @@
+[2020-03-17 10:20:39,948: INFO/MainProcess] Connected to amqp://guest:**@127.0.0.1:5672//
+[2020-03-17 10:20:40,201: INFO/MainProcess] mingle: searching for neighbors
+[2020-03-17 10:20:42,485: INFO/MainProcess] mingle: sync with 5 nodes
+[2020-03-17 10:20:42,486: INFO/MainProcess] mingle: sync complete
+[2020-03-17 10:20:42,610: INFO/MainProcess] celery4@e8fea118a9e0 ready.
+[2020-03-17 10:20:56,901: INFO/MainProcess] Events of group {task} enabled by remote.
+[2020-03-17 12:38:01,286: INFO/MainProcess] missed heartbeat from celery1@e8fea118a9e0
+[2020-03-17 12:38:16,280: INFO/MainProcess] missed heartbeat from 4@e8fea118a9e0
+[2020-03-17 12:38:16,280: INFO/MainProcess] missed heartbeat from celery2@e8fea118a9e0
+[2020-03-17 12:38:17,261: WARNING/MainProcess] Substantial drift from worker@e8fea118a9e0 may mean clocks are out of sync.  Current drift is
+17 seconds.  [orig: 2020-03-17 12:38:16.568911 recv: 2020-03-17 12:37:59.757209]
+
+[2020-03-17 12:38:17,411: WARNING/MainProcess] Substantial drift from 4@e8fea118a9e0 may mean clocks are out of sync.  Current drift is
+18 seconds.  [orig: 2020-03-17 12:38:17.411588 recv: 2020-03-17 12:37:59.759357]
+
+[2020-03-17 12:38:17,441: WARNING/MainProcess] Substantial drift from celery1@e8fea118a9e0 may mean clocks are out of sync.  Current drift is
+20 seconds.  [orig: 2020-03-17 12:38:17.441889 recv: 2020-03-17 12:37:57.755862]
+
+[2020-03-17 12:38:17,442: WARNING/MainProcess] Substantial drift from celery2@e8fea118a9e0 may mean clocks are out of sync.  Current drift is
+20 seconds.  [orig: 2020-03-17 12:38:17.442597 recv: 2020-03-17 12:37:57.754952]
+
+[2020-03-17 12:38:21,490: INFO/MainProcess] missed heartbeat from celery3@e8fea118a9e0
+[2020-03-17 12:38:21,490: INFO/MainProcess] missed heartbeat from celery1@e8fea118a9e0
+[2020-03-17 12:38:21,490: INFO/MainProcess] missed heartbeat from celery2@e8fea118a9e0
+[2020-03-17 12:44:43,982: INFO/MainProcess] missed heartbeat from worker@e8fea118a9e0
+[2020-03-17 12:44:43,982: INFO/MainProcess] missed heartbeat from 4@e8fea118a9e0
+[2020-03-17 12:44:43,982: INFO/MainProcess] missed heartbeat from celery3@e8fea118a9e0
+[2020-03-17 12:44:43,982: INFO/MainProcess] missed heartbeat from celery2@e8fea118a9e0
+[2020-03-17 12:44:43,982: INFO/MainProcess] missed heartbeat from celery1@e8fea118a9e0

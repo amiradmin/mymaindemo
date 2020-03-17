@@ -1,0 +1,23 @@
+[2020-03-17 09:51:39,483: INFO/MainProcess] Connected to amqp://guest:**@127.0.0.1:5672//
+[2020-03-17 09:51:39,494: INFO/MainProcess] mingle: searching for neighbors
+[2020-03-17 09:51:40,551: INFO/MainProcess] mingle: sync with 1 nodes
+[2020-03-17 09:51:40,553: INFO/MainProcess] mingle: sync complete
+[2020-03-17 09:51:40,639: INFO/MainProcess] worker@e8fea118a9e0 ready.
+[2020-03-17 09:51:43,430: INFO/MainProcess] Events of group {task} enabled by remote.
+[2020-03-17 10:20:24,251: INFO/MainProcess] Received task: tasks.invocer[45332291-b10e-4f7b-b047-058fea71f7a4]  
+[2020-03-17 10:20:25,948: INFO/MainProcess] Received task: tasks.invocer[6003569a-1c6b-42fb-a3fd-17501507ced0]  
+[2020-03-17 10:20:35,768: INFO/MainProcess] sync with celery1@e8fea118a9e0
+[2020-03-17 10:20:35,989: INFO/MainProcess] Received task: tasks.invocer[27d7dbf8-ddda-45d9-9262-98125d207e2d]  
+[2020-03-17 10:20:36,822: INFO/MainProcess] sync with celery2@e8fea118a9e0
+[2020-03-17 10:20:37,708: INFO/MainProcess] sync with celery3@e8fea118a9e0
+[2020-03-17 10:20:38,636: INFO/MainProcess] Received task: tasks.invocer[66c80067-c04b-4c23-ba89-cc2845897886]  
+[2020-03-17 10:20:41,195: INFO/MainProcess] sync with celery4@e8fea118a9e0
+[2020-03-17 12:38:09,318: INFO/MainProcess] missed heartbeat from celery1@e8fea118a9e0
+[2020-03-17 12:38:09,844: INFO/MainProcess] missed heartbeat from celery2@e8fea118a9e0
+[2020-03-17 12:38:09,844: INFO/MainProcess] missed heartbeat from celery3@e8fea118a9e0
+[2020-03-17 12:38:09,845: INFO/MainProcess] missed heartbeat from celery4@e8fea118a9e0
+[2020-03-17 12:44:43,983: INFO/MainProcess] missed heartbeat from 4@e8fea118a9e0
+[2020-03-17 12:44:43,983: INFO/MainProcess] missed heartbeat from celery4@e8fea118a9e0
+[2020-03-17 12:44:43,983: INFO/MainProcess] missed heartbeat from celery3@e8fea118a9e0
+[2020-03-17 12:44:43,983: INFO/MainProcess] missed heartbeat from celery2@e8fea118a9e0
+[2020-03-17 12:44:43,984: INFO/MainProcess] missed heartbeat from celery1@e8fea118a9e0

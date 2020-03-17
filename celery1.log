@@ -1,0 +1,23 @@
+[2020-03-17 10:20:35,542: INFO/MainProcess] Connected to amqp://guest:**@127.0.0.1:5672//
+[2020-03-17 10:20:35,592: INFO/MainProcess] mingle: searching for neighbors
+[2020-03-17 10:20:36,849: INFO/MainProcess] mingle: sync with 2 nodes
+[2020-03-17 10:20:36,850: INFO/MainProcess] mingle: sync complete
+[2020-03-17 10:20:37,521: INFO/MainProcess] celery1@e8fea118a9e0 ready.
+[2020-03-17 10:20:37,708: INFO/MainProcess] sync with celery3@e8fea118a9e0
+[2020-03-17 10:20:38,523: INFO/MainProcess] Events of group {task} enabled by remote.
+[2020-03-17 10:20:41,194: INFO/MainProcess] sync with celery4@e8fea118a9e0
+[2020-03-17 12:38:11,132: INFO/MainProcess] missed heartbeat from celery4@e8fea118a9e0
+[2020-03-17 12:38:25,795: WARNING/MainProcess] Substantial drift from celery3@e8fea118a9e0 may mean clocks are out of sync.  Current drift is
+19 seconds.  [orig: 2020-03-17 12:38:24.593255 recv: 2020-03-17 12:38:05.760815]
+
+[2020-03-17 12:38:26,245: WARNING/MainProcess] Substantial drift from 4@e8fea118a9e0 may mean clocks are out of sync.  Current drift is
+21 seconds.  [orig: 2020-03-17 12:38:26.245426 recv: 2020-03-17 12:38:05.766321]
+
+[2020-03-17 12:38:26,245: WARNING/MainProcess] Substantial drift from worker@e8fea118a9e0 may mean clocks are out of sync.  Current drift is
+21 seconds.  [orig: 2020-03-17 12:38:26.245844 recv: 2020-03-17 12:38:05.763846]
+
+[2020-03-17 12:44:43,985: INFO/MainProcess] missed heartbeat from worker@e8fea118a9e0
+[2020-03-17 12:44:43,985: INFO/MainProcess] missed heartbeat from 4@e8fea118a9e0
+[2020-03-17 12:44:43,986: INFO/MainProcess] missed heartbeat from celery2@e8fea118a9e0
+[2020-03-17 12:44:43,986: INFO/MainProcess] missed heartbeat from celery3@e8fea118a9e0
+[2020-03-17 12:44:43,986: INFO/MainProcess] missed heartbeat from celery4@e8fea118a9e0

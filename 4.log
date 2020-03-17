@@ -1,0 +1,27 @@
+[2020-03-17 09:51:38,406: INFO/MainProcess] Connected to amqp://guest:**@127.0.0.1:5672//
+[2020-03-17 09:51:38,424: INFO/MainProcess] mingle: searching for neighbors
+[2020-03-17 09:51:39,448: INFO/MainProcess] mingle: all alone
+[2020-03-17 09:51:39,470: INFO/MainProcess] 4@e8fea118a9e0 ready.
+[2020-03-17 09:51:39,471: INFO/MainProcess] Received task: tasks.invocer[060ffa02-d32e-48a8-b6f7-639979dfcfba]  
+[2020-03-17 09:51:39,473: INFO/MainProcess] Received task: tasks.invocer[39c15380-d0cf-4dbb-ae55-204b589d658a]  
+[2020-03-17 09:51:39,473: INFO/MainProcess] Received task: tasks.invocer[54812f0a-3550-41dd-9ba6-d3041b1eb882]  
+[2020-03-17 09:51:39,474: INFO/MainProcess] Received task: tasks.invocer[ba34137e-3bdc-47d2-8a9c-a7d5c0e08a4a]  
+[2020-03-17 09:51:39,538: INFO/MainProcess] sync with worker@e8fea118a9e0
+[2020-03-17 09:51:43,430: INFO/MainProcess] Events of group {task} enabled by remote.
+[2020-03-17 10:20:23,731: INFO/MainProcess] Received task: tasks.invocer[0c1b2e66-804f-4734-8df4-7109e7d22ad7]  
+[2020-03-17 10:20:25,014: INFO/MainProcess] Received task: tasks.invocer[9dee2368-4848-48f4-aab0-46d994a51f50]  
+[2020-03-17 10:20:34,035: INFO/MainProcess] Received task: tasks.invocer[9f395cae-2331-4b71-b0a3-3142e30074cd]  
+[2020-03-17 10:20:35,769: INFO/MainProcess] sync with celery1@e8fea118a9e0
+[2020-03-17 10:20:36,822: INFO/MainProcess] sync with celery2@e8fea118a9e0
+[2020-03-17 10:20:37,005: INFO/MainProcess] Received task: tasks.invocer[67f54fb8-5fdd-4a69-9074-5540424f4d79]  
+[2020-03-17 10:20:37,710: INFO/MainProcess] sync with celery3@e8fea118a9e0
+[2020-03-17 10:20:41,199: INFO/MainProcess] sync with celery4@e8fea118a9e0
+[2020-03-17 12:38:08,699: INFO/MainProcess] missed heartbeat from celery4@e8fea118a9e0
+[2020-03-17 12:38:16,490: INFO/MainProcess] missed heartbeat from celery1@e8fea118a9e0
+[2020-03-17 12:38:16,491: INFO/MainProcess] missed heartbeat from celery2@e8fea118a9e0
+[2020-03-17 12:38:16,491: INFO/MainProcess] missed heartbeat from celery3@e8fea118a9e0
+[2020-03-17 12:44:43,987: INFO/MainProcess] missed heartbeat from worker@e8fea118a9e0
+[2020-03-17 12:44:43,987: INFO/MainProcess] missed heartbeat from celery4@e8fea118a9e0
+[2020-03-17 12:44:43,987: INFO/MainProcess] missed heartbeat from celery3@e8fea118a9e0
+[2020-03-17 12:44:43,988: INFO/MainProcess] missed heartbeat from celery2@e8fea118a9e0
+[2020-03-17 12:44:43,988: INFO/MainProcess] missed heartbeat from celery1@e8fea118a9e0

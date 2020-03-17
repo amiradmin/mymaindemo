@@ -1,0 +1,15 @@
+[2020-03-17 10:20:37,523: INFO/MainProcess] Connected to amqp://guest:**@127.0.0.1:5672//
+[2020-03-17 10:20:37,593: INFO/MainProcess] mingle: searching for neighbors
+[2020-03-17 10:20:38,721: INFO/MainProcess] mingle: sync with 3 nodes
+[2020-03-17 10:20:38,725: INFO/MainProcess] mingle: sync complete
+[2020-03-17 10:20:40,089: INFO/MainProcess] celery3@e8fea118a9e0 ready.
+[2020-03-17 10:20:41,193: INFO/MainProcess] sync with celery4@e8fea118a9e0
+[2020-03-17 10:20:56,902: INFO/MainProcess] Events of group {task} enabled by remote.
+[2020-03-17 12:38:11,846: INFO/MainProcess] missed heartbeat from celery4@e8fea118a9e0
+[2020-03-17 12:38:21,684: INFO/MainProcess] missed heartbeat from worker@e8fea118a9e0
+[2020-03-17 12:38:21,685: INFO/MainProcess] missed heartbeat from celery1@e8fea118a9e0
+[2020-03-17 12:44:43,986: INFO/MainProcess] missed heartbeat from 4@e8fea118a9e0
+[2020-03-17 12:44:43,986: INFO/MainProcess] missed heartbeat from celery2@e8fea118a9e0
+[2020-03-17 12:44:43,986: INFO/MainProcess] missed heartbeat from worker@e8fea118a9e0
+[2020-03-17 12:44:43,986: INFO/MainProcess] missed heartbeat from celery4@e8fea118a9e0
+[2020-03-17 12:44:43,986: INFO/MainProcess] missed heartbeat from celery1@e8fea118a9e0
